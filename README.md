@@ -12,8 +12,8 @@ Site: www.fernandocelmer.com
 E-mail: email@fernandocelmer.com
 
 # Technologies
-Bootstrap - https://getbootstrap.com/ <br> 
-CodeIgniter - https://codeigniter.com/ <br> 
+Python - https://www.python.org/ <br> 
+Django - https://www.djangoproject.com/ <br> 
 
 # Demo
 Link - <br> 
