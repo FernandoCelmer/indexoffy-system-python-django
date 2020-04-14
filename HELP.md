@@ -8,6 +8,13 @@
     <li>python manage.py startapp [NOME]    // CRIA UM NOVO MODULO</li>
 </ul>
 
+# [DJANGO ADMIN]
+
+<p><b>IMPORTANTS COMMANDS</b></p>
+<ul>
+    <li>  // </li>
+</ul>
+
 
 
 
