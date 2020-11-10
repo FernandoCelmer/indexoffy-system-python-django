@@ -1,30 +1,19 @@
 # [indexoffy-system-python-django]
 
-Basic system for implementation with login and registration options.
+![GitHub last commit](https://img.shields.io/github/last-commit/FernandoCelmer/indexoffy-system-python-django) ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?label=Fernando%20Celmer&style=social)
 
-<p><b>Folders and Files</b></p>
-<ul>
-  <li> //  </li>
-</ul>
+#### About: Basic system for implementation with login and registration options. 
 
-Site: www.fernandocelmer.com
-</br>
-E-mail: email@fernandocelmer.com
+## 🚀 Technologies
 
-# Technologies
-Python - https://www.python.org/ <br> 
-Django - https://www.djangoproject.com/ <br> 
+- [Python](http://python.org) 
+- [Django](http://djangoproject.com)
 
-# Demo
-Link - <br> 
-Login - <br> 
-Password - <br> 
+## Demo
 
-# SCREEN - ON 
-________________________________
-<p> 
+## Branchs
 
-# Database - ON
+## SCREEN - ON 
 ________________________________
 <br>
 
